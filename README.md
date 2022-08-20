@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello, you are so beautiful today 👋  
+
+- 🔭 我正在做知识分享
+- 🌱 我正在学习音乐
+- 👯 我正在寻找志同道合的人
+- 💬 可以和我交流 职场生活，前端技术
+- 📫 如何联系我: 可以给我提 issue 
+
+- ✨ 热爱，成长，分享
+
+
 
 <!--
 **viikx/viikx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
